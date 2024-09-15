@@ -1,0 +1,11 @@
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\bin\Debug\net8.0\FCPlayersLib.deps.json
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\bin\Debug\net8.0\FCPlayersLib.dll
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\bin\Debug\net8.0\FCPlayersLib.pdb
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\FCPlayersLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\FCPlayersLib.AssemblyInfoInputs.cache
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\FCPlayersLib.AssemblyInfo.cs
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\FCPlayersLib.csproj.CoreCompileInputs.cache
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\FCPlayersLib.dll
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\refint\FCPlayersLib.dll
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\FCPlayersLib.pdb
+C:\Users\david\hazi\programozas\13\FCPlayers\FCPlayersLib\obj\Debug\net8.0\ref\FCPlayersLib.dll
